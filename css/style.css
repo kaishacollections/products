@@ -2792,3 +2792,17 @@ a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active {
     }
 }
     /* =====  END RESPONSIVE CSS  =====*/
+
+    /*Abbevilltech custom*/
+
+    .how_to_order{
+        color: #f00;
+    }
+    .logo{
+        color: #fff;
+    }
+
+    .logo:hover{
+        color: #fff;
+
+    }

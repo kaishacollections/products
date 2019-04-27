@@ -423,4 +423,3 @@ function owl_carousel () {
 jQuery( window ).on("load",function() {
      $(".loder").fadeOut("slow");    
 });
-
